@@ -1,4 +1,4 @@
 <?php 
 
-echo '2018';
+echo '2018';exit
  ?>
